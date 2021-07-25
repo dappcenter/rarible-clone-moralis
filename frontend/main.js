@@ -1,7 +1,7 @@
 Moralis.initialize("SeV3zTP20TTobNMG48Sr8rw5PoCVOvssyhBIoVD1");
 Moralis.serverURL = "https://astudillyj2i.usemoralis.com:2053/server";
 const TOKEN_CONTRACT_ADDRESS = "0x46BFF9c533e2F0793377A7bB1587eCf2d866f355";
-const MARKETPLACE_CONTRACT_ADDRESS = "MARKETPLACE_CONTRACT_ADDRESS";
+const MARKETPLACE_CONTRACT_ADDRESS = "0x0A32C3d0c5E878f45F92C9677E1dBB5d6e0A3e25";
 
 init = async () => {
   hideElement(userItemsSection);
